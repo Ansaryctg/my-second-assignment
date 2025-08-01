@@ -19,6 +19,11 @@ margin-right: 10%;
 align-items: center;
 max-width: 1180px;
 }
+
+.left-side p {text-align: left;
+    font-size: large
+
+}
 h1{
     color: rgb(231, 33, 33);
 }
