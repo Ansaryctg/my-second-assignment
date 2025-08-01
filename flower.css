@@ -4,3 +4,22 @@ ul{
     color: black;
     gap: 20px;
 }
+.nav{
+    display: flex;
+    justify-content: space-between;
+    max-width: 1180px;
+    margin-left: 10%;
+}
+.hero{
+display: flex;
+justify-content: space-between;
+margin-top: 50px;
+margin-left: 10%;
+margin-right: 10%;
+align-items: center;
+max-width: 1180px;
+}
+h1{
+    color: rgb(231, 33, 33);
+}
+
